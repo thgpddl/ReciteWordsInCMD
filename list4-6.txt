@@ -1,0 +1,164 @@
+degree
+n 程度 度数 学位 等级 度(温度单位)
+
+concern
+v 涉及 关系到 关注
+n 关心 关切 顾虑 忧虑 厉害
+
+allow
+v 允许 同意 考虑
+
+product
+n 产物 产品
+
+level
+n 水平 程度 等级 级别
+adj 水平的 平的 平稳的
+
+effort
+n 努力 艰难的尝试
+
+infer
+v 推论 推断
+
+professional
+n 专业人士
+adj 职业的 专业的 专门的
+
+provide
+v 供给 提供 给予
+
+challenge
+n 挑战 艰巨任务 怀疑 挑战 质疑
+v 挑战 怀疑 质疑
+
+deal
+n 数量 程度 协议 交易 生意
+v 处理 给予 做买卖 经营
+
+structure
+v 构建 建造 组织 构成
+n 结构 构造 建筑物
+
+define
+v 阐明 规定 限定 使明确
+
+content
+v 使满足
+n 容量 含量 满足 内容 满意
+
+immigrant
+adj 移来的 移民的
+n 移民 侨民
+
+comprehension
+n 理解 领悟
+
+potential
+n 潜力 潜能
+adj 潜在的 可能的
+
+mass
+adj 大规模的 大量的 群众的
+n 大量 众多 团 块 质量 民众
+
+compare
+v 比较 相比 比对 比作
+
+feature
+n 特征 特色 突出明显差异 与...对比鲜明
+v 起重要作用 以...为特色 由...主演 特写
+
+involve
+v 使...卷入 牵涉 涉及 包含 使陷入 使参与
+
+segment
+n 部分 段 片 节
+
+access
+n 接近 进入的方法 入口 通
+v 读取信息
+
+cover
+n 盖子 套子 封面
+v 遮盖 覆盖 包含 足以支付 行走
+
+reveal
+v 展现 显示 揭示 揭露 告诉 泄露
+
+analysis
+n 分析 分解
+
+identify
+v 识别 鉴别 确认 把...看成一样
+
+title
+n 书名 标题 头衔 称号
+
+doubt
+n/v 怀疑 疑惑
+
+physical
+adj 物质的 有形的 肉体的 身体的 物理学的 自然规律的
+
+introduce
+v 引进 提出 采用 推行 引用
+
+figure
+v 算出 估计 推测
+n 体形 数字 图形 人物
+
+conduct
+v 引导 带领 处理 实施 管理 传导 指挥
+n 行为 举动 指导 实施
+
+tell
+v 鉴别 区别 告诉 讲述 吩咐 命令 显示
+
+lack
+n 缺乏 不足 缺少的东西
+v 缺乏缺少
+
+available
+adj 可用的 可获得的 用空的
+
+emerge
+v 浮现 出现 发生 显露 暴露
+
+express
+v 表达 表示
+adj 特快的 快速的 明确的 确切的
+n 特快列车 快递服务
+
+consequence
+n 结果 后果 影响 重要性
+
+contribute
+v 有助于 贡献 捐助 捐献 投稿
+
+executive
+adj 执行的 实施的
+n 经理 主管 管理者
+
+current
+n 水流 气流 电流 潮流
+adj 现代的 当前的 进行中的
+
+sort
+n 种类 类别
+v 分类 类别
+
+secure
+v 得到某物 获得 防护 保卫
+adj 安全的 可靠的 放心的 稳固的 稳定的
+
+threat
+n 威胁 恐吓 凶兆
+
+treat
+n 对待 治疗
+
+infect
+. 传染
+
+$$
